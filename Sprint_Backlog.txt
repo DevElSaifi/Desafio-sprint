@@ -1,4 +1,0 @@
-história 1 (ID1) alteração do arquivo index.html - esforço estimado 2 minutos 
-Descrição: Alteração das cores no nome dos veículos 
-história 3 (ID3) alteração do arquivo contato.html - esforço estimado 2 minutos 
-Descrição: Formatação dos links referentes ao inicio,contato e veículos, alteração de texto. 
